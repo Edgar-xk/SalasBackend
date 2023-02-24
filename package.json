@@ -1,0 +1,28 @@
+{
+  "name": "lionsystems",
+  "version": "1.0.0",
+  "description": "aplicación para administrar salas de juntas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "lionsystems"
+  },
+  "keywords": [
+    "agenda",
+    "examen",
+    "juntas",
+    "salas"
+  ],
+  "author": "Ing. Edgar Sotelo",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.20"
+  }
+}
